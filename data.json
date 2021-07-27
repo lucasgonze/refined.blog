@@ -2960,6 +2960,18 @@
             ],
             "furl": "https://www.troyhunt.com/rss/",
             "hnp": 13592
+        },
+        {
+            "name": "Lucas Gonze",
+            "url": "https://some.gonze.com/",
+            "tags": [
+                "blogging",
+                "open source",
+                "racism",
+                "music",
+                "rants"
+            ],
+            "furl": "https://some.gonze.com/feed/"
         }
     ]
 }
